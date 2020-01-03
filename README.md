@@ -1,7 +1,7 @@
 # Python-Pizza-Shop-Project
-![](https://github.com/tauseefansari/Python-Pizza-Shop-Project/blob/master/Images/MainPage.JPG)
+![](MainPage.JPG)
 ***
-![](https://github.com/tauseefansari/Python-Pizza-Shop-Project/blob/master/Images/Bill.JPG)
+![](Bill.JPG)
 ***
 * Install [Python Tkinter](https://www.python.org/)
 * Install [Mysql Connector](https://dev.mysql.com/downloads/connector/python/)
